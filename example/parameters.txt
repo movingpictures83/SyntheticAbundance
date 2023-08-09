@@ -1,0 +1,5 @@
+input	gut
+numsamples	100
+minspecies	100
+maxsample	200
+distributiontype	L

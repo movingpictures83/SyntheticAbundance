@@ -1,0 +1,2 @@
+Prefix plugins/SyntheticAbundance/example/
+Plugin SyntheticAbundance inputfile parameters.txt outputfile synthetic
